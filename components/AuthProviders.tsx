@@ -31,7 +31,9 @@ const AuthProviders = () => {
       <div>
         {Object.values(providers)
         .map((provider: Provider, i) => (
-          <button key={i}>{provider.id}</button>
+          <button key={i} onClick={() => signIn(provider?.id)}>
+            {provider.id}
+          </button>
         ))}
       </div>
     )
