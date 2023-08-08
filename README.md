@@ -1,6 +1,7 @@
 ## Technologies
 
-- [Next.js](https://nextjs.org/) --- v18.17.0
+- [Next.js](https://nextjs.org/)
+- [Node.js](https://nodejs.org/) --- v18.17.0(LTS)
 - [TypeScript](https://www.typescriptlang.org/)
 
 - [Grafbase](https://grafbase.com/)
