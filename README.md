@@ -5,7 +5,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 
 - [Grafbase](https://grafbase.com/)
-- [NextAuth.js](https://next-auth.js.org/)
+- [NextAuth.js](https://next-auth.js.org/) --- v4.22.1
 - [Google Cloud](https://console.cloud.google.com/getting-started)
 
 
