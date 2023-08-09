@@ -1,6 +1,6 @@
 ## Technologies
 
-- [Next.js](https://nextjs.org/)
+- [Next.js](https://nextjs.org/) --- v13.4.10
 - [Node.js](https://nodejs.org/) --- v18.17.0(LTS)
 - [TypeScript](https://www.typescriptlang.org/)
 
