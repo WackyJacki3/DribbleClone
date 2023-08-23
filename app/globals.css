@@ -22,6 +22,7 @@ body {
   /* font-family: "Montserrat", sans-serif; */
   font-family: "Josefin Sans", sans-serif;
   color: #fff;
+  background-color: #102f37;
 }
 
 .flexCenter {
@@ -181,9 +182,15 @@ body {
 .page-main-color-darker {
   background-color: #071418; /* 任意の色に変更してください */
 }
+.page-main-color-lighter {
+  background-color: #34555b; /* 任意の色に変更してください */
+}
 .button-main-color {
   background-color: #53fffd; /* 任意の色に変更してください */
 }
 .font-black {
   color: #071418;
+}
+.font-white {
+  color: #fff;
 }
