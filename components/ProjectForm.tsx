@@ -81,7 +81,7 @@ const ProjectForm = ({ type, session, project }: Props) => {
   });
 
   return (
-    <form onSubmit={handleFormSubmit} className="flexStart form">
+    <form onSubmit={handleFormSubmit} className="flexStart form  font-black">
       <div className="flexStart form_image-container">
         <label htmlFor="poster" className="flexCenter form_image-label">
           {!form.image && "Choose a poster for your project"}

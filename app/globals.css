@@ -176,8 +176,14 @@ body {
 }
 
 .page-main-color {
-  background-color: #031220; /* 任意の色に変更してください */
+  background-color: #102f37; /* 任意の色に変更してください */
 }
 .page-main-color-darker {
-  background-color: #031220; /* 任意の色に変更してください */
+  background-color: #071418; /* 任意の色に変更してください */
+}
+.button-main-color {
+  background-color: #53fffd; /* 任意の色に変更してください */
+}
+.font-black {
+  color: #071418;
 }
