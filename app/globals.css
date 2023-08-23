@@ -22,7 +22,7 @@ body {
   /* font-family: "Montserrat", sans-serif; */
   font-family: "Josefin Sans", sans-serif;
   color: #fff;
-  background-color: #102f37;
+  background-color: #01141a;
 }
 
 .flexCenter {
@@ -177,13 +177,13 @@ body {
 }
 
 .page-main-color {
-  background-color: #102f37; /* 任意の色に変更してください */
+  background-color: #01141a; /* 任意の色に変更してください */
 }
 .page-main-color-darker {
-  background-color: #071418; /* 任意の色に変更してください */
+  background-color: #021a22; /* 任意の色に変更してください */
 }
 .page-main-color-lighter {
-  background-color: #34555b; /* 任意の色に変更してください */
+  background-color: #2b474c; /* 任意の色に変更してください */
 }
 .button-main-color {
   background-color: #53fffd; /* 任意の色に変更してください */

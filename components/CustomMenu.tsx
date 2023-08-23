@@ -16,7 +16,7 @@ const CustomMenu = ({ title, state, filters, setState }: Props) => {
       </label>
       <Menu as="div" className="self-start relative">
         <div>
-          <Menu.Button className="flexCenter custom_menu-btn">
+          <Menu.Button className="flexCenter custom_menu-btn font-black">
             {state || "Select a category"}
             <Image
               src="/arrow-down.svg"
@@ -26,7 +26,7 @@ const CustomMenu = ({ title, state, filters, setState }: Props) => {
             />
           </Menu.Button>
         </div>
-        <Menu.Items className="flexStart custom_menu-items">
+        <Menu.Items className="flexStart custom_menu-items font-black">
           {filters.map((tag) => (
             <Menu.Item key={tag}>
               <button
